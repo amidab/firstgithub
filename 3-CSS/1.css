@@ -1,0 +1,50 @@
+/*selector {
+    property : value;
+}*/
+body{
+    background-image: url("indoor 1.jpg");
+    background-size:inherit;
+}
+h2 {
+    color: rgb(226, 35, 35);
+    text-align: center;
+    border: 5px solid royalblue;
+    cursor: pointer;
+}
+.image{
+    border: 5px solid rgb(94, 32, 32);
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    
+    line-height: 50px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: 'Ballet', cursive;
+}
+img{
+    float: right;
+
+}
+li{
+    list-style: none;
+    display: inline-block;
+
+}
+.webtext{
+    border: 5px dashed rgba(0, 0, 0);
+    background-color: rgba(0,0,0,0.4);
+}
+#div1{
+    border: 7px solid rgba(109, 108, 108, 0.2);
+    background-color: rgba(0,0,0,0.2);
+}
+.active {
+    border: 5px dashed rgba(0, 0, 0);
+    background-color: rgba(0,0,0,0.4)
+}
+footer{
+    clear: both;
+    text-align: center;
+}
